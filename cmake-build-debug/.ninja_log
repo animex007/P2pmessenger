@@ -1,0 +1,12 @@
+# ninja log v6
+3	206	7663943396904642	build.ninja	1a98268ed7042b27
+1260	1399	7663942967919628	P2pmessenger.exe	35a37d59d78e2021
+2	1096	7663942955342672	CMakeFiles/P2pmessenger.dir/main.cpp.obj	6df1f18b6e9cf24c
+9	1202	7663942955412637	CMakeFiles/P2pmessenger.dir/ui.cpp.obj	cbc7d0814cb5f2ad
+5	1222	7663942955372631	CMakeFiles/P2pmessenger.dir/discovery.cpp.obj	7844723643414a15
+7	1260	7663942955392630	CMakeFiles/P2pmessenger.dir/peer.cpp.obj	574a3f95f1513ab8
+4	1109	7663943428621275	CMakeFiles/P2pmessenger.dir/main.cpp.obj	3ab45e1e4a023b7e
+12	1225	7663943428691285	CMakeFiles/P2pmessenger.dir/ui.cpp.obj	436532077ffdce24
+7	1240	7663943428651302	CMakeFiles/P2pmessenger.dir/discovery.cpp.obj	9bce56e690fcdf2a
+9	1317	7663943428671420	CMakeFiles/P2pmessenger.dir/peer.cpp.obj	6f54ed5e6cbb5b9a
+1317	1414	7663943441753376	P2pmessenger.exe	35a37d59d78e2021

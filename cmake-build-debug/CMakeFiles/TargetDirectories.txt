@@ -1,0 +1,3 @@
+C:/Users/ayush/CLionProjects/P2pmessenger/cmake-build-debug/CMakeFiles/P2pmessenger.dir
+C:/Users/ayush/CLionProjects/P2pmessenger/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ayush/CLionProjects/P2pmessenger/cmake-build-debug/CMakeFiles/rebuild_cache.dir

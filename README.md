@@ -82,19 +82,9 @@ P2PMessenger/
 - Modify `peer.cpp` to adjust UDP broadcast settings
 - Customize CLI UI in `ui.cpp` to suit your theme
 
+## Screenshot
 
-
-## 📦 Building Without CLion (Optional)
-
-If you want to build using command line:
-
-```bash
-g++ main.cpp peer.cpp ui.cpp -lws2_32 -o P2PMessenger.exe
-```
-
-Make sure `MinGW` is added to your PATH and use `-lws2_32` to link Windows Sockets API.
-
-
+![Screenshot 2025-04-15 102012](https://github.com/user-attachments/assets/38686db1-7220-45e0-825c-1382ce22692a)
 
 
 ## 🙌 Contributing
